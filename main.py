@@ -1,4 +1,4 @@
-import art
+import art #Cut the line if it shows error!
 import random
 
 cards = {
