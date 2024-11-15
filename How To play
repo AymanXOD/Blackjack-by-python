@@ -1,0 +1,46 @@
+
+# How to Play Blackjack
+
+### Objective:
+The goal of Blackjack is to have a hand value closer to 21 than the dealer's hand without exceeding 21. 
+
+---
+
+### Rules:
+1. **Card Values**:  
+   - Number cards (2–10): Face value.  
+   - Face cards (Jack, Queen, King): Worth 10 points.  
+   - Ace: Can be worth 1 or 11 points, depending on your hand.  
+
+2. **Starting the Game**:  
+   - The player and the dealer are dealt two cards each.  
+   - The player’s cards are visible, while the dealer shows only one card.  
+
+3. **Player Options**:  
+   - **Hit**: Take another card to get closer to 21.  
+   - **Stand**: Keep your current hand and end your turn.  
+
+4. **Winning Conditions**:  
+   - Your hand is closer to 21 than the dealer's.  
+   - The dealer's hand exceeds 21 (bust).  
+   - You get a natural Blackjack (21 points with the first two cards).  
+
+5. **Losing Conditions**:  
+   - Your hand exceeds 21 (bust).  
+   - The dealer’s hand is closer to 21 than yours.
+
+---
+
+### Game Controls:
+- Follow the prompts in the console to make decisions (e.g., hit or stand).  
+- Input the required option as text when prompted.  
+
+---
+
+### Tips:
+- Try to guess the dealer's total based on their visible card.  
+- Be cautious when your total is close to 21, as hitting might cause you to bust.  
+
+---
+
+Enjoy the game and test your luck and strategy!
